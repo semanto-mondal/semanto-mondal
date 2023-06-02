@@ -24,7 +24,7 @@
 <ul> <li>Windows</li> <li>Linux</li> </ul>
 <b>Software & Tools:</b>
 
-<ul> <li>CISCO - CCNA Exploration: Network Fundamentals</li> <li>MongoDB</li> <li>Microsoft Office: Word, Excel, Access, Power Point, Outlook</li> <li>Machine Learning</li> <li>Power BI</li> <li>Deep Learning</li> <li>Tableau (data analysis)</li> <li>Latex Software</li> <li>Google Business, Google ADS & Google Analytics</li> <li>WordPress</li> <li>Power BI</li> </ul>
+<ul> <li>CISCO - CCNA Exploration: Network Fundamentals</li> <li>MongoDB</li> <li>Microsoft Office: Word, Excel, Access, Power Point, Outlook</li> <li>Machine Learning</li> <li>Power BI</li> <li>Deep Learning</li> <li>Tableau (data analysis)</li> <li>Latex Software</li> <li>Google Business, Google ADS & Google Analytics</li> <li>WordPress</li> <li> Neo4j </li> </ul>
 <b>Programming Languages:</b>
 
 <ul> <li>C++</li> <li>Python</li> <li>CSS</li> <li>HTML</li> <li>R Programming</li> <li>SQL</li> </ul>
