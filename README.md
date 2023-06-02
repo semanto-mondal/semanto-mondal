@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SEMANTO MONDAL</h1>
 <h3 align="center">I'm currently doing my master's in Data Science at the University of Naples Federico II, Italy. I have completed my bachelor's in Electronics and Communication Engineering From NIT Warangal, India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semanto-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="semanto-mondal" /> </p>
+
 - 🌱 I’m currently learning **Varieties of topics related to Data Science**
 
 - 👨‍💻 I do also post some of my work on Kaggle [https://www.kaggle.com/semanto117119](https://www.kaggle.com/semanto117119)
