@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Varieties of topics related to Data Science**
 
-- 👨‍💻 I do also post some of my work on Kaggle [https://www.kaggle.com/semanto117119](https://www.kaggle.com/semanto117119)
+- 👨‍💻 I do also post some of my work on [Kaggle](https://www.kaggle.com/semanto117119)
 
 - 💬 Ask me about **Data Science related topics such as Machine Learning, Deep Learning, Statistical Analysis, Parallel Computing and maybe others**
 
-- 📄 Know more about my activities [https://www.linkedin.com/in/semanto-mondal/](https://www.linkedin.com/in/semanto-mondal/)
+- 📄 Know more about my activities [Linkdein](https://www.linkedin.com/in/semanto-mondal/)
 
 - ⚡ Fun fact **I like to sleep and eat :P**
 
